@@ -2,6 +2,8 @@
 
 https://skyway.ntt.com/ja/docs/user-guide/javascript-sdk/quickstart/
 
+↑js以外はまともじゃないとお考え下さい。
+
 ### **レンタルサーバーでも起動できます**
 
 https://damakatu.web.fc2.com/newdir/index.html

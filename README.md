@@ -13,3 +13,5 @@ https://teamneel.web.fc2.com/RTC/index.html
 ### **物体認識を搭載したバージョンを公開しました**
 
 詳細はwebRTC-object recognitionをダウンロードしてreadmeを見て下さい
+
+注意⚠️ローカルサーバーにアクセスするときはhttps://をつけて下さい

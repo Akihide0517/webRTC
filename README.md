@@ -9,3 +9,7 @@ https://skyway.ntt.com/ja/docs/user-guide/javascript-sdk/quickstart/
 https://damakatu.web.fc2.com/newdir/index.html
 
 https://teamneel.web.fc2.com/RTC/index.html
+
+### **物体認識を搭載したバージョンを公開しました**
+
+詳細はwebRTC-object recognitionをダウンロードしてreadmeを見て下さい

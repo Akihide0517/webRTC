@@ -15,3 +15,5 @@ https://teamneel.web.fc2.com/RTC/index.html
 詳細はwebRTC-object recognitionをダウンロードしてreadmeを見て下さい
 
 注意⚠️ローカルサーバーにアクセスするときはhttps://をつけて下さい
+
+実行から認識開始までには多少時間がかかります
